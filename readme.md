@@ -1,0 +1,1 @@
+# Practice tutorial to learn React and Next.js
